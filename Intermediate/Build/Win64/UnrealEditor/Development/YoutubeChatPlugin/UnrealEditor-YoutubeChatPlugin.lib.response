@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-YoutubeChatPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Segfault\Documents\Unreal Projects\ProjectAlpha\Intermediate\Build\Win64\ProjectAlphaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\Segfault\Documents\Unreal Projects\ProjectAlpha\Plugins\YoutubeChatPlugin\Intermediate\Build\Win64\UnrealEditor\Development\YoutubeChatPlugin\Module.YoutubeChatPlugin.cpp.obj"
+"C:\Users\Segfault\Documents\Unreal Projects\ProjectAlpha\Plugins\YoutubeChatPlugin\Intermediate\Build\Win64\UnrealEditor\Development\YoutubeChatPlugin\Default.rc2.res"
+/OUT:"C:\Users\Segfault\Documents\Unreal Projects\ProjectAlpha\Plugins\YoutubeChatPlugin\Intermediate\Build\Win64\UnrealEditor\Development\YoutubeChatPlugin\UnrealEditor-YoutubeChatPlugin.lib"

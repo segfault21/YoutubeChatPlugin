@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.YoutubeChatPlugin.cpp.obj": [
+			"YoutubeChatPlugin.init.gen.cpp.obj",
+			"YoutubeChatPluginBPLibrary.gen.cpp.obj",
+			"YoutubeChatPluginSettings.gen.cpp.obj",
+			"YoutubeChatPlugin.cpp.obj",
+			"YoutubeChatPluginBPLibrary.cpp.obj"
+		]
+	}
+}
